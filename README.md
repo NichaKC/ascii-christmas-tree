@@ -26,7 +26,7 @@ The tree grows from the bottom up. Then the garland, baubles, twinkling lights, 
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/ascii-christmas-tree.git
+git clone https://github.com/NichaKC/ascii-christmas-tree.git
 cd ascii-christmas-tree
 pip install -r requirements.txt
 ```
